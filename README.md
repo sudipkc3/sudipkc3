@@ -23,6 +23,11 @@
   />
 </picture>
 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <img src="assets/Blackcat.gif" height="40" /> 
+ <img src="assets/SleepingKitty.gif" height="40" />  <img src="assets/kitty.gif" height="40" />
+
+---
+
 <!-- start statics fun section -->
 <details>
 <summary><b> Some Statistics Fun </b></summary>
@@ -43,10 +48,3 @@
 </div>
 </details>
 <!-- end statics fun section -->
-
-<img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/master/assets/kyubey.gif" height="40" />
-
----
-[![](https://visitcount.itsvg.in/api?id=sudipkc3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
