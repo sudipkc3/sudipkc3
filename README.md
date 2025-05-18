@@ -39,7 +39,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudipkc3&theme=dark)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sudipkc3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipkc3&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudipkc3&theme=dracula)
