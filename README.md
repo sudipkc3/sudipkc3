@@ -34,6 +34,7 @@
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=sudipkc3&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sudipkc3&theme=tokyonight&hide_langs_below=4' />
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudipkc3&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudipkc3)](https://git.io/streak-stats)
