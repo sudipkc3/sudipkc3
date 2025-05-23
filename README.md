@@ -65,7 +65,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudipkc3&theme=dracula)
 
 ### 🎵 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31gfc636m6pdegtto7y62xr2adwa)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31gfc636m6pdegtto7y62xr2adwa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31gfc636m6pdegtto7y62xr2adwa)
+
 
 ## 🤝 Let’s Collaborate
 Feel free to connect or DM for collaboration or freelance projects.
