@@ -57,9 +57,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudipkc3&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudipkc3)](https://git.io/streak-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipkc3&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudipkc3&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudipkc3&theme=dracula)
