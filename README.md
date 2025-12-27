@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I’m Sudip KC — a Junior UI/UX Designer and Frontend Developer based in Nepal.<br>
+👋 Hi there, I’m Sudip KC — UI/UX Designer and Frontend Developer based in Nepal.<br>
 🎨 Passionate about creating clean, user-centered designs and interactive frontend experiences.<br>
 ⚛️ Currently building with React.js and exploring the backend with Django.<br>
 🛠️ Skilled in Figma, HTML, CSS, JavaScript, Tailwind CSS, Python and Adobe CC — always learning and growing.<br><br>
